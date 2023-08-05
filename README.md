@@ -1,4 +1,3 @@
 # Airplane-Seating-code
 Core Java based small project
-not a very efficient code but includes basic oop concepts.
-..!
+not a very efficient code but it will help...!
